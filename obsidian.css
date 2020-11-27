@@ -18,8 +18,8 @@
     --font-size-tag: 16px;
     --font-size-preview-blockquote: 16px;
     --font-size-edit-blockquote: 16px;
-    --font-size-code: 14px;
-    --font-size-edit-code: 14px;
+    --font-size-code: 16px;
+    --font-size-edit-code: 16px;
 }
 
 .theme-light {
@@ -730,7 +730,7 @@ div:not(.CodeMirror-activeline) > .CodeMirror-line span.cm-formatting-task.cm-pr
 
 .cm-s-obsidian .cm-header,
 .cm-s-obsidian .cm-strong {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .cm-header-1 {
@@ -886,6 +886,7 @@ b,
 span.cm-strong,
 strong {
     color: var(--accent-strong);
+    background-color: aliceblue;
 }
 
 /*vertical lines*/
