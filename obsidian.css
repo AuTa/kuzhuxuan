@@ -819,12 +819,12 @@ mjx-container[jax="CHTML"] {
 /*bold code text except code language*/
 code:not([class*="language-"]) {
     font-weight: 600;
-    font-family: Consolas;
+    font-family: "Source Han Sans";
 }
 
 .cm-s-obsidian span.cm-inline-code {
     font-weight: 600;
-    font-family: Consolas;
+    font-family: "Source Han Sans";
 }
 
 /*Add vertical lines of embedded lists*/
