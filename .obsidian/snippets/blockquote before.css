@@ -5,6 +5,13 @@ blockquote:before {
     line-height: 0.1em;
     vertical-align: -0.4em;
 }
-.markdown-embed hr::after {
-    background-color: var(--yykys);
+.markdown-preview-view .markdown-embed {
+    background-color: var(--background-primary);
+    border-style: solid;
+    border-radius: 0%;
+    border-right-width: 0;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 7px;
+    border-color: var(--ztys);
 }
