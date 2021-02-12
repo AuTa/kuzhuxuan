@@ -7,11 +7,12 @@ blockquote:before {
 }
 .markdown-preview-view .markdown-embed {
     background-color: var(--background-primary);
+    padding-left: 10px;
     border-style: solid;
     border-radius: 0%;
     border-right-width: 0;
     border-top-width: 0px;
     border-bottom-width: 0px;
     border-left-width: 7px;
-    border-color: var(--ztys);
+    border-color: var(--yykys);
 }
