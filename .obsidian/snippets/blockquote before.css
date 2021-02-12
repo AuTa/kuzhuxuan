@@ -5,3 +5,6 @@ blockquote:before {
     line-height: 0.1em;
     vertical-align: -0.4em;
 }
+.markdown-embed hr::after {
+    background-color: var(--yykys);
+}
