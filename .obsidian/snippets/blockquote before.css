@@ -5,14 +5,14 @@ blockquote:before {
     line-height: 0.1em;
     vertical-align: -0.4em;
 }
-.markdown-preview-view .markdown-embed {
-    background-color: var(--background-primary);
-    padding-left: 10px;
-    border-style: solid;
-    border-radius: 0%;
-    border-right-width: 0;
-    border-top-width: 0px;
-    border-bottom-width: 0px;
-    border-left-width: 7px;
-    border-color: var(--yykys);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+}
+.markdown-embed-title {
+    font-weight: 700;
 }
